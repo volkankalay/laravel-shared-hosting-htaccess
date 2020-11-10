@@ -1,4 +1,4 @@
-# laravel-shared-htaccess
+# laravel-shared-hosting-htaccess
 Laravel shared hostig htaccess file (exclude openlitespeed)
 
 If you use SSL, please remove '#' on this lines.
